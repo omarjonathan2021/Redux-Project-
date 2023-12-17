@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Todo } from "./Todo";
+import { Todo } from "./Task";
 import { TodoForm } from "./TodoForm";
 import { v4 as uuidv4 } from "uuid";
 import { EditTodoForm } from "./EditTodoForm";
